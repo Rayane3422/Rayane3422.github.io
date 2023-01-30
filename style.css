@@ -2,3 +2,8 @@
 body {background-color: beige;}
 li{color: rgb(12, 5, 80);}
 </style>
+body {
+    background-image: url('https://www.lycee-joffre.fr/wp-content/uploads/2018/11/Joffre-Montpellier.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
